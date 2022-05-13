@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "123",
-    "database": "db_challenge4",
-    "host": "127.0.0.1",
+    "username": "lacgptujnllqbv",
+    "password": "990f0d089a5a3866f0a4fb6d920027ea1948cdf5d4213b33e2be7597fc77574e",
+    "database": "d9qc27b30a26k8",
+    "host": "ec2-54-157-79-121.compute-1.amazonaws.com",
     "dialect": "postgres"
   },
   "test": {
-    "username": "postgres",
-    "password": "123",
-    "database": "db_challenge4",
-    "host": "127.0.0.1",
+    "username": "lacgptujnllqbv",
+    "password": "990f0d089a5a3866f0a4fb6d920027ea1948cdf5d4213b33e2be7597fc77574e",
+    "database": "d9qc27b30a26k8",
+    "host": "ec2-54-157-79-121.compute-1.amazonaws.com",
     "dialect": "postgres"
   },
   "production": {
-    "username": "postgres",
-    "password": "123",
-    "database": "db_challenge4",
-    "host": "127.0.0.1",
+    "username": "lacgptujnllqbv",
+    "password": "990f0d089a5a3866f0a4fb6d920027ea1948cdf5d4213b33e2be7597fc77574e",
+    "database": "d9qc27b30a26k8",
+    "host": "ec2-54-157-79-121.compute-1.amazonaws.com",
     "dialect": "postgres"
   }
 }
