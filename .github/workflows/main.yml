@@ -16,7 +16,7 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Migrate DB
-        run: npm run migrate --env production
+        run: npm run migrate
 
   deploy:
     runs-on: ubuntu-latest
