@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "lbhspjiwagwceg",
-    "password": "cf92bbb8d5c285470192e77290ce6cabed84320e7c28d73d8c735a9bec88aff7",
-    "database": "dan001pbvaqr2d",
-    "host": "ec2-34-236-94-53.compute-1.amazonaws.com",
+    "username": "postgres",
+    "password": "postgres",
+    "database": "test-binar",
+    "host": "54.255.139.218",
     "dialect": "postgres"
   },
   "test": {
-    "username": "lbhspjiwagwceg",
-    "password": "cf92bbb8d5c285470192e77290ce6cabed84320e7c28d73d8c735a9bec88aff7",
-    "database": "dan001pbvaqr2d",
-    "host": "ec2-34-236-94-53.compute-1.amazonaws.com",
+    "username": "postgres",
+    "password": "postgres",
+    "database": "test-binar",
+    "host": "54.255.139.218",
     "dialect": "postgres"
   },
   "production": {
-    "username": "lbhspjiwagwceg",
-    "password": "cf92bbb8d5c285470192e77290ce6cabed84320e7c28d73d8c735a9bec88aff7",
-    "database": "dan001pbvaqr2d",
-    "host": "ec2-34-236-94-53.compute-1.amazonaws.com",
+    "username": "postgres",
+    "password": "postgres",
+    "database": "test-binar",
+    "host": "54.255.139.218",
     "dialect": "postgres"
   }
 }
